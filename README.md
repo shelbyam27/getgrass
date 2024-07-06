@@ -5,7 +5,7 @@
 
 # Command
 - git clone https://github.com/shelbyam27/getgrass.git
-- cd GrassAutoFarming
+- cd getgrass
 - pip install -r requirements.txt
 - python run_http.py
 - python run_socks4.py
